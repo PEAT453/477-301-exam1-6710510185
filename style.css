@@ -1,7 +1,10 @@
 div{
     font-size: 2.5rem;
 }
-
+h1{
+    font-size: 3rem;
+    color: darkorchid;
+}
 .main{
     background-color: lightblue;
     border-radius: 10px;
